@@ -4,7 +4,7 @@
 #
 Name     : mvn-jdom2
 Version  : 2.0.5
-Release  : 2
+Release  : 3
 URL      : https://github.com/hunterhacker/jdom/archive/JDOM-2.0.5.tar.gz
 Source0  : https://github.com/hunterhacker/jdom/archive/JDOM-2.0.5.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/jdom/jdom2/2.0.5/jdom2-2.0.5.jar
